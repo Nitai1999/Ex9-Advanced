@@ -1,0 +1,28 @@
+{
+  "name": "ex9-advanced",
+  "version": "1.0.0",
+  "description": "https://github.com/Nitai1999/Ex9-Advanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitai1999/Ex9-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nitai1999/Ex9-Advanced/issues"
+  },
+  "homepage": "https://github.com/Nitai1999/Ex9-Advanced#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "custom-env": "^2.0.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
+}
